@@ -1,5 +1,5 @@
 import os
-
+# migrations 
 apps_path = 'api'
 
 for app in os.listdir(apps_path):
